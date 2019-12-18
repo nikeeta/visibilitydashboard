@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/visibilitydashboard/static/css/main.d1b05096.chunk.css",
+    "main.js": "/visibilitydashboard/static/js/main.a07157dc.chunk.js",
+    "main.js.map": "/visibilitydashboard/static/js/main.a07157dc.chunk.js.map",
+    "runtime-main.js": "/visibilitydashboard/static/js/runtime-main.394e2ea6.js",
+    "runtime-main.js.map": "/visibilitydashboard/static/js/runtime-main.394e2ea6.js.map",
+    "static/js/2.ba9a093b.chunk.js": "/visibilitydashboard/static/js/2.ba9a093b.chunk.js",
+    "static/js/2.ba9a093b.chunk.js.map": "/visibilitydashboard/static/js/2.ba9a093b.chunk.js.map",
+    "index.html": "/visibilitydashboard/index.html",
+    "precache-manifest.04e7b7d876c23574b94bd4dfba8f0291.js": "/visibilitydashboard/precache-manifest.04e7b7d876c23574b94bd4dfba8f0291.js",
+    "service-worker.js": "/visibilitydashboard/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/visibilitydashboard/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ba9a093b.chunk.js.LICENSE": "/visibilitydashboard/static/js/2.ba9a093b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/visibilitydashboard/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.394e2ea6.js",
+    "static/js/2.ba9a093b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a07157dc.chunk.js"
+  ]
+}
